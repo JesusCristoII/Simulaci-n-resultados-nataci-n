@@ -1,0 +1,925 @@
+Hora Nº Prueba 1 2 3 4 5 Hora Nº Prueba 1 2 3 4 5
+8:30 1 145:00 0:45:00 0:45:00 16:00 1 145:00 0:45:00 0:45:00
+9:15 150 Libres Femen. 16 301:30 0:04:30 0:49:30 16:45 1950 Mariposa Masc. 16 301:30 0:04:30 0:49:30
+9:19 250 Libres Masc. 16 301:30 0:04:30 0:54:00 16:49 2050 Mariposa Femen. 16 301:30 0:04:30 0:54:00
+9:24 3800 Libres Femen. 8 211:30 0:23:00 1:17:00 16:54 21400 Estilos Indv Masc. 8 206:00 0:12:00 1:06:00
+9:47 41500 Libres Masc. 8 219:00 0:38:00 1:55:00 17:06 22400 Estilos Indv Femen. 8 206:30 0:13:00 1:19:00
+10:25 550 Braza Femen. 16 301:40 0:05:00 2:00:00 17:19 2350 Espalda Masc. 16 301:30 0:04:30 1:23:30
+10:30 650 Braza Masc. 16 301:40 0:05:00 2:05:00 17:23 2450 Espalda Fem. 16 301:30 0:04:30 1:28:00
+10:35 7100 Mariposa Femen. 16 302:00 0:06:00 2:11:00 17:28 25100 Libres Masc. 16 302:00 0:06:00 1:34:00
+10:41 8100 Mariposa Masc. 16 302:00 0:06:00 2:17:00 17:34 26100 Libres Femen. 16 302:00 0:06:00 1:40:00
+10:47 1 145:00 0:45:00 3:02:00 17:40 1 145:00 0:45:00 2:25:00
+11:32 9100 Espalda Fem. 16 302:15 0:06:45 3:08:45 18:25 27100 Braza Masc. 16 302:10 0:06:30 2:31:30
+11:38 10100 Espalda Masc. 16 302:10 0:06:30 3:15:15 18:31 28100 Braza Femen. 16 302:20 0:07:00 2:38:30
+11:45 11200 Estilos Indv Femen. 16 303:40 0:11:00 3:26:15 18:38 29200 Mariposa Masc. 16 303:20 0:10:00 2:48:30
+11:56 12200 Estilos Indv Masc. 16 303:30 0:10:30 3:36:45 18:48 30200 Mariposa Femen. 16 303:20 0:10:00 2:58:30
+12:06 13200 Libres Femen. 16 303:20 0:10:00 3:46:45 18:58 31200 Espalda Masc. 16 303:30 0:10:30 3:09:00
+12:16 14200 Libres Masc. 16 303:00 0:09:00 3:55:45 19:09 32200 Espalda Fem. 16 303:30 0:10:30 3:19:30
+12:25 15200 Braza Femen. 16 304:00 0:12:00 4:07:45 19:19 33400 Libres Masc. 16 305:20 0:16:00 3:35:30
+12:37 16200 Braza Masc. 16 303:40 0:11:00 4:18:45 19:35 34400 Libres Femen. 16 306:00 0:18:00 3:53:30
+12:48 174x50 Libres Femen. 8 203:00 0:06:00 4:24:45 19:53 354x50 Estilos Masc. 8 203:00 0:06:00 3:59:30
+12:54 184x50 Libres Masc. 8 203:00 0:06:00 4:30:45 19:59 364x50 Estilos Femen. 8 203:00 0:06:00 4:05:30
+20:05 36ENTREGA DE TROFEOS 1 105:00 0:05:00 4:10:301ª DIVISION 1ª DIVISIONCOPA DE CLUBES
+PRIMERA DIVISION
+(1) Nº Participantes, (2) Nº Series, (3) Tiempo por Serie, (4) Tiempo Total por Prueba, (5) Tiempo total acumulado.
+SABADO TARDE DOMINGO TARDEPISCINA EL CARRASCAL                                                                                                                                                                            
+Avd. Europa, 4                                                                                                                                                                                           
+LEGANES
+TIPO PISCINA 6 TIPO PISCINA 6
+FINAL SESION 13:00:45 FINAL SESION 20:10:30CALENTAMIENTO CALENTAMIENTOCALENTAMIENTO CALENTAMIENTO 
+ 
+   
+               COPA DE MADRID ABS OLUT A  1ª DIVISIÓN 24-25 
+ 
+PISCINA: “EL CARRASCAL” - LEGANÉS  
+(AVDA. EUROPA nº 6)  
+ 
+Sábad o 26  de Abril  202 5 
+ 
+Calentamiento primer turno  08:30 para participantes en las pruebas 1 al 8 y 16:00 de 
+las pruebas 19 al 26.  
+Calentamiento segundo turno  10:45 para participantes en las pruebas 9 al 18 y 17:40 
+de las pruebas 27 al 36.  
+INICIO COMPETICIÓN primer turno  09:15 Pruebas de la 1 a la 8 y 16:45 para las 
+pruebas de la 19 a la 26.  
+INICIO COMPETICIÓN segundo turno  11:30 Pruebas de la 9 a la 18 y 18:25 pruebas de 
+la 27 a la 36.  
+*VER TIMING  
+ 
+Es IMPORTANTE  que se respeten los turnos de los calentamientos.  
+ 
+Recordamos a todos los clubes, la prohibición de acceder a la playa de la piscina a toda persona 
+que no sean Nadadores, Delegados o Entrenadores de los equipos participantes en la 
+Competición.  Por favor, solo podrán permanecer abajo en piscina los nadadores que 
+vayan a participar en dicha sesión .   
+ 
+Recordamos que también está totalmente prohibido hacer uso de cualquier equipamiento de la 
+instalación que no sea el específicamente relacionado con la competición de Natación.  
+ 
+Las bajas/sustituciones/fichas de relevos, deberán ser entregadas en la secretaría de la 
+competición como máximo 20 minutos antes del comienzo de la competición.  
+ 
+Los nadadores deberán presentarse en la cámara de salidas 5 MINUTOS ANTES DEL INICIO 
+DE SU PRUEBA para realizar la inspección sobre normativa de bañadores y publicidad.  
+ 
+A TODOS LOS DEPORTISTAS – ENTRENADORES - DELEGADOS DE LOS CLUBES  
+ 
+Todos los entrenadores que acompañen a los deportistas, deberán identificarse en la mesa de 
+secretaría de competición, en los 30 minutos anteriores al comienzo de la competición/sesión.  
+ 
+ 
+Se recuerda la OBLIGACIÓN DE PRESENTAR el CARNÉ DE LICENCIA FEDERATIVA TERRITORIAL 
+generado desde Leverade y/o original vigente del DNI/PASAPORTE/TARJETA 
+EXTRANJERÍA/PERMISO RESIDENCIA/VISADO SCHENGEN, cuando sea solicitado en cualquier 
+momento de la competición por algún miembro del jurado de la misma.  
+El carné de la licencia federativa territorial, deberá incluir inexcusablemente una fotografía para su 
+identificación (una fotografía reciente en color del rostro del federado, tomada de frente con la cabeza 
+totalmente descubierta y sin gafas de cristales oscuros o cualquier otra prenda que pueda impedir o 
+dificultar la identificación de la persona).  Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 1
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 1 Fem., 50m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2GARCIA HERNANDEZ, Ines 08 C. Alameda De Osuna 30.02 ___:___.___
+3POP MARTIN, Alexia 09 C.M.N. Arganda 28.96 ___:___.___
+4BLANCO PEÑAS, Vega 11 C.N. Jimenez 29.00 ___:___.___
+5VERDEJO RODRIGUEZ, Paula Haotong 04 C.N. Vallmont NT ___:___.___
+Serie 2 de 3
+1CONTRERAS CASTILLO, Sandra 04 C.N. San Blas 28.60 ___:___.___
+2GARRIDO PEDROSA, Natalia 09 A.D.N. Mostoles 27.95 ___:___.___
+3FLORES ALVAREZ, Lucia 05 C.N. Ciudad De Alcorcon 27.36 ___:___.___
+4BELCIUG BELCIUG, Bianca Claudia 09 C.N. Leganes 27.59 ___:___.___
+5SANCHEZ-PATON GOMEZ, Maria 08 C. Alameda De Osuna 28.51 ___:___.___
+6CASTRO HIDALGO, Jimena 05 C.M.N. Arganda 28.78 ___:___.___
+Serie 3 de 3
+1BOLAÑOS MARTINEZ, Sara 07 C.N. Leganes 27.20 ___:___.___
+2MAYORDOMO DELGADO, M. 07 A.D.N. Mostoles 26.73 ___:___.___
+3MENDOZA GOMEZ, Sara 07 C.N. San Blas 26.07 ___:___.___
+4GARCIA LOPEZ, Lara 07 C.N. Vallmont 26.51 ___:___.___
+5HAUET, Ines 04 C.N. Ciudad De Alcorcon 27.12 ___:___.___
+6GONZALEZ GIL, Gemma 04 C.N. Jimenez 27.26 ___:___.___
+Prueba 2 Masc., 50m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2EFIMOV, Nikita Albert 03 C.N. Mirasierra NT ___:___.___
+3SALGUERO OTEIZA, Ivan 98 A.D. Rivas Natación 25.24 ___:___.___
+4NEAGU, Mario Andrei 07 C.N. San Fernando De Henares 25.34 ___:___.___
+5RIVERA MARTIN, Sergio 02 C.N. Coslada NT ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 2
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 2, Masc., 50m Libre
+Serie 2 de 3
+1JUGANARU, Robert Andrei 01 C.N. Coslada 24.51 ___:___.___
+2FERNANDEZ ROBLES, Miguel 08 C.N. Colegio Mirasur 24.29 ___:___.___
+3MENDOZA GOMEZ, Andres 09 C.N. San Blas 23.94 ___:___.___
+4AGUERO MONTERO, Javier 04 C.N. Mirasierra 23.96 ___:___.___
+5MUÑOZ LUCIO, Bruno 08 C.N. Colegio Mirasur 24.30 ___:___.___
+6TOBAL CAÑABATE, Carlos 02 A.D. Rivas Natación 24.59 ___:___.___
+Serie 3 de 3
+1FERNANDEZ BLAZQUEZ, Victor 03 Safa Madrid 23.74 ___:___.___
+2FERNANDEZ BLAZQUEZ, Pablo 05 Safa Madrid 23.15 ___:___.___
+3RODRIGUEZ ROSALES, Julio Cesar 05 C.D. Sek 22.70 ___:___.___
+4TORCZYNSKI, Bruno 07 C.D. Sek 23.13 ___:___.___
+5PARRA BARRERA, Miguel 04 C.N. San Blas 23.71 ___:___.___
+6GALLU GALLEGO, Miguel 04 C.N. San Fernando De Henares 23.74 ___:___.___
+Prueba 3 Fem., 800m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 2
+2CANTADOR RODRIGUEZ, Silvia 11 C.N. Jimenez 11:30.30 ___:___.___
+3GARCIA GARCIA-DUARTE, Laura 10 C. Alameda De Osuna 10:37.38 ___:___.___
+4GIMENEZ CATALA, Gema 09 C.N. San Blas 11:17.12 ___:___.___
+Serie 2 de 2
+1GARCIA LOPEZ, Lea 06 C.N. Vallmont 10:32.39 ___:___.___
+2BENITO BARCA, Lucia 99 C.N. Ciudad De Alcorcon 9:58.51 ___:___.___
+3VILLANUEVA MARTINEZ, Maria 02 C.M.N. Arganda 9:33.69 ___:___.___
+4TOMAS PRIETO, Rocio 06 A.D.N. Mostoles 9:34.93 ___:___.___
+5URUIOC IFRIM, Andrada Helena 09 C.N. Leganes 10:24.97 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 3
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 4 Masc., 1500m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 2
+2JALDON SANCHEZ, Alfonso 09 A.D. Rivas Natación 19:26.94 ___:___.___
+3HIGUERAS BARRANTES, Jaime 01 C.N. San Blas 17:52.14 ___:___.___
+4FERNANDEZ GIL, Mario 05 C.N. San Fernando De Henares 18:32.57 ___:___.___
+Serie 2 de 2
+1TANTEAN, Luis-Mihail 06 C.D. Sek 17:47.49 ___:___.___
+2GUEVARA RODRIGUEZ, Ignacio 07 C.N. Mirasierra 17:21.80 ___:___.___
+3MARTIN MARTIN, Leo 11 C.N. Coslada 17:00.43 ___:___.___
+4RIBEIRO INIESTA, Alejandro 08 C.N. Colegio Mirasur 17:00.90 ___:___.___
+5ALDERETE GARCIA, Rodrigo 06 Safa Madrid 17:26.15 ___:___.___
+Prueba 5 Fem., 50m  Braza 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2PRAVIA DE LA GUERRA, Arantzazu 07 C.N. Vallmont 41.67 ___:___.___
+3CALLEJA ROMERALO, Maria Luxuan 10 C.N. Jimenez 38.38 ___:___.___
+4COCUCCI, Arianne 09 C. Alameda De Osuna 38.46 ___:___.___
+Serie 2 de 3
+1VILLALBA DA COSTA, Adriana 09 C.M.N. Arganda 37.52 ___:___.___
+2CABORNERO JIMENEZ, Marta 04 C.N. Jimenez 36.41 ___:___.___
+3MARTIN CUBAS, Arian 10 C.N. Ciudad De Alcorcon 34.78 ___:___.___
+4SANCHEZ EXPOSITO, Alba 08 C.N. Leganes 35.20 ___:___.___
+5GUERRERO RODRIGUEZ, Celia 07 C.N. San Blas 37.09 ___:___.___
+6VEGA LECH, Adriana 10 C.M.N. Arganda 37.89 ___:___.___
+Serie 3 de 3
+1FERNANDEZ DIAZ, Irene 09 A.D.N. Mostoles 34.45 ___:___.___
+2ASENSIO SAMPE, Alejandra 05 C.N. Ciudad De Alcorcon 34.27 ___:___.___
+3ALONSO BLANCO, Eva 10 C.N. San Blas 33.08 ___:___.___
+4YUGUERO LABAJOS, Claudia 06 A.D.N. Mostoles 33.26 ___:___.___
+5CAMPOS GIAO, Candela 09 C.N. Leganes 34.27 ___:___.___
+6HERNANDEZ BAZAN, Carla 08 C. Alameda De Osuna 34.67 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 4
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 6 Masc., 50m  Braza 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2RAMIREZ LORENZO, Diego 07 C.N. San Blas 34.73 ___:___.___
+3BLAZQUEZ BAUTISTA, Jesus 05 A.D. Rivas Natación 31.47 ___:___.___
+4MARTIN CARVAJAL, Carlos 07 C.N. Coslada 31.58 ___:___.___
+5SANCHEZ LOPEZ, Antonio 10 C.N. San Blas 36.42 ___:___.___
+Serie 2 de 3
+1IVASZUK IVASZUK, Raoul Vlad 04 C.N. Colegio Mirasur 30.54 ___:___.___
+2GALLU GALLEGO, Miguel 04 C.N. San Fernando De Henares 30.01 ___:___.___
+3MONTALVO GALVEZ, Javier 05 C.N. Colegio Mirasur 29.91 ___:___.___
+4MARTIN DE LA IGLESIA, David 99 Safa Madrid 29.99 ___:___.___
+5TORCZYNSKI, Bruno 07 C.D. Sek 30.25 ___:___.___
+6BAREA DE ORBE, Fernando 81 C.N. Mirasierra 31.38 ___:___.___
+Serie 3 de 3
+1SANTAMARIA IZQUIERDO, Alejandro 03 C.N. Mirasierra 29.62 ___:___.___
+2VICIOSO BUIGUES, Jaime 07 C.D. Sek 29.45 ___:___.___
+3PEÑA RODRIGUEZ, Jaime 02 C.N. San Fernando De Henares 28.06 ___:___.___
+4GUTIERREZ MADERUELO, Javier 00 Safa Madrid 29.40 ___:___.___
+5PON SERRANO, Pablo 05 A.D. Rivas Natación 29.61 ___:___.___
+6NOGALES CUENCA, Hector 01 C.N. Coslada 29.69 ___:___.___
+Prueba 7 Fem., 100m Mariposa 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2DIAZ-AMBRONA HERNANDEZ, Lissette 11 C.N. Jimenez 1:23.19 ___:___.___
+3SANCHEZ-PATON GOMEZ, Maria 08 C. Alameda De Osuna 1:14.67 ___:___.___
+4CANO BECERRA, Noa 09 C.M.N. Arganda 1:22.00 ___:___.___
+5BLOM SAURA, Elena 11 C. Alameda De Osuna 1:25.65 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 5
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 7, Fem., 100m Mariposa
+Serie 2 de 3
+1GONZALEZ GIL, Gemma 04 C.N. Jimenez 1:12.46 ___:___.___
+2LOPEZ GARCIA, Silvia 08 C.N. Vallmont 1:11.18 ___:___.___
+3GARCIA LOPEZ, Lara 07 C.N. Vallmont 1:10.03 ___:___.___
+4FERNANDEZ URBANOS, Paula 08 C.N. Leganes 1:10.89 ___:___.___
+5CONTRERAS CASTILLO, Sandra 04 C.N. San Blas 1:11.25 ___:___.___
+6MARTIN HERNANDEZ, Angela 08 C.M.N. Arganda 1:12.82 ___:___.___
+Serie 3 de 3
+1GARCIA MONTEAGUDO, Alba 07 C.N. Leganes 1:08.81 ___:___.___
+2FLORES ALVAREZ, Lucia 05 C.N. Ciudad De Alcorcon 1:05.31 ___:___.___
+3MENDOZA GOMEZ, Sara 07 C.N. San Blas 1:02.98 ___:___.___
+4CARRION LAMPARERO, Claudia 03 A.D.N. Mostoles 1:04.09 ___:___.___
+5GARRIDO PEDROSA, Natalia 09 A.D.N. Mostoles 1:06.76 ___:___.___
+6DOMENECH SAGRA, Gabriela 06 C.N. Ciudad De Alcorcon 1:09.69 ___:___.___
+Prueba 8 Masc., 100m Mariposa 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2DE LA TORRE VARGAS, Daniel 09 C.N. San Fernando De Henares 1:08.90 ___:___.___
+3ALVAREZ ALMAZAN, Jonay 08 C.N. Coslada 1:02.82 ___:___.___
+4LOPEZ PRESNO, Iker 11 C.N. Coslada 1:03.43 ___:___.___
+5HIGUERAS BARRANTES, Jaime 01 C.N. San Blas NT ___:___.___
+Serie 2 de 3
+1MARTINEZ CALLEJA, Mario 06 A.D. Rivas Natación 1:00.65 ___:___.___
+2GARCIA NAVAS, Pablo 08 Safa Madrid 59.34 ___:___.___
+3ALMARZA PUIG, Hector 03 A.D. Rivas Natación 58.38 ___:___.___
+4GARCIA GONZALEZ, Angel 04 C.N. Colegio Mirasur 59.05 ___:___.___
+5ABAD LOPEZ, Adrian 04 C.N. San Blas 59.78 ___:___.___
+6POLO GOMEZ, Sergio 06 C.N. San Fernando De Henares 1:00.75 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 6
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 8, Masc., 100m Mariposa
+Serie 3 de 3
+1AGUERO MONTERO, Javier 04 C.N. Mirasierra 56.82 ___:___.___
+2RODRIGUEZ ROSALES, Julio Cesar 05 C.D. Sek 55.06 ___:___.___
+3LOZANO MATEOS, Alberto 98 C.D. Sek 51.64 ___:___.___
+4MARTIN LARA, Dario 04 C.N. Mirasierra 54.88 ___:___.___
+5FERNANDEZ BLAZQUEZ, Pablo 05 Safa Madrid 56.20 ___:___.___
+6MORENO GARCIA, Andres 04 C.N. Colegio Mirasur 57.25 ___:___.___
+Prueba 9 Fem., 100m  Espalda 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2GIMENEZ CATALA, Gema 09 C.N. San Blas 1:21.90 ___:___.___
+3GOMEZ MERA, Isabel 11 C. Alameda De Osuna 1:18.88 ___:___.___
+4MARTIN ALONSO-BARAJAS, Isabel 09 C.N. Vallmont 1:20.37 ___:___.___
+5VERDEJO RODRIGUEZ, Paula Haotong 04 C.N. Vallmont NT ___:___.___
+Serie 2 de 3
+1BLANCO PEÑAS, Vega 11 C.N. Jimenez 1:16.26 ___:___.___
+2POP MARTIN, Alexia 09 C.M.N. Arganda 1:09.98 ___:___.___
+3MURIEL LOPEZ, Sofia 06 C. Alameda De Osuna 1:08.72 ___:___.___
+4CHANCLON SUERO, Irene 06 C.N. Ciudad De Alcorcon 1:08.77 ___:___.___
+5FERRY MUÑOZ, Lara 10 C.N. Ciudad De Alcorcon 1:13.05 ___:___.___
+6SANCHEZ ROMERO, Abril 09 C.N. San Blas 1:18.68 ___:___.___
+Serie 3 de 3
+1CASTRO HIDALGO, Jimena 05 C.M.N. Arganda 1:07.76 ___:___.___
+2BOLAÑOS MARTINEZ, Sara 07 C.N. Leganes 1:05.87 ___:___.___
+3POZO PADILLA, Paula 07 A.D.N. Mostoles 1:03.35 ___:___.___
+4CABORNERO JIMENEZ, Marta 04 C.N. Jimenez 1:05.56 ___:___.___
+5GARCIA MONTEAGUDO, Alba 07 C.N. Leganes 1:07.29 ___:___.___
+6CID CAMACHO, Cristina 10 A.D.N. Mostoles 1:08.42 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 7
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 10 Masc., 100m  Espalda 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2POLO GOMEZ, Sergio 06 C.N. San Fernando De Henares 1:03.72 ___:___.___
+3MARQUES VERNICH, Xavier 10 C.N. Colegio Mirasur 1:01.37 ___:___.___
+4PARRA BARRERA, Andres 00 C.N. San Blas 1:03.66 ___:___.___
+5NUÑEZ CHIC, Luis 04 C.N. San Fernando De Henares 1:08.30 ___:___.___
+Serie 2 de 3
+1BARRAGAN TORRES, Alberto 96 C.N. Mirasierra 1:00.48 ___:___.___
+2RODRIGUEZ GAMEZ, Yago 10 A.D. Rivas Natación 1:00.10 ___:___.___
+3FERNANDEZ BLAZQUEZ, Victor 03 Safa Madrid 59.09 ___:___.___
+4MERELLO CARRIZO, Sergio 08 C.N. Colegio Mirasur 59.09 ___:___.___
+5JUGANARU, Robert Andrei 01 C.N. Coslada 1:00.40 ___:___.___
+6RODRIGUEZ CRESPO, Alejandro 09 Safa Madrid 1:00.53 ___:___.___
+Serie 3 de 3
+1CARRASCO RIVERA, Enrique 98 C.N. Mirasierra 58.89 ___:___.___
+2FENTE DAMERS, Victor 09 C.D. Sek 57.21 ___:___.___
+3FENTE DAMERS, Rafael 06 C.D. Sek 52.10 ___:___.___
+4PARRA BARRERA, Miguel 04 C.N. San Blas 56.62 ___:___.___
+5TOBAL CAÑABATE, Carlos 02 A.D. Rivas Natación 58.22 ___:___.___
+6NOGALES CUENCA, Hector 01 C.N. Coslada 59.07 ___:___.___
+Prueba 11 Fem., 200m Estilos 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2COCUCCI, Arianne 09 C. Alameda De Osuna NT ___:___.___
+3CONTRERAS AYALA, Beatriz 10 C.N. Jimenez NT ___:___.___
+4POVEDANO MARTIN, Clara 10 C.N. San Blas NT ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 8
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 11, Fem., 200m Estilos
+Serie 2 de 3
+1SANABRIAS GIJON, Aroa 07 C.N. San Blas 3:03.83 ___:___.___
+2CALLEJA ROMERALO, Maria Luxuan 10 C.N. Jimenez 2:51.96 ___:___.___
+3DOMENECH SAGRA, Gabriela 06 C.N. Ciudad De Alcorcon 2:38.13 ___:___.___
+4MARTIN HERNANDEZ, Angela 08 C.M.N. Arganda 2:43.30 ___:___.___
+5MARTIN TERESO RODRIGUEZ, Amanda 09 C. Alameda De Osuna 2:53.48 ___:___.___
+6MAQUEDA PLAZA, Natalia 11 C.N. Vallmont NT ___:___.___
+Serie 3 de 3
+1ASENSIO SAMPE, Alejandra 05 C.N. Ciudad De Alcorcon 2:34.85 ___:___.___
+2PEREZ RODRIGUEZ, Irene 08 C.N. Leganes 2:30.85 ___:___.___
+3POZO PADILLA, Paula 07 A.D.N. Mostoles 2:21.82 ___:___.___
+4VILLANUEVA MARTINEZ, Maria 02 C.M.N. Arganda 2:25.86 ___:___.___
+5FERNANDEZ DIAZ, Irene 09 A.D.N. Mostoles 2:32.50 ___:___.___
+6MOLINA RAPOSO, Carla 09 C.N. Leganes 2:37.92 ___:___.___
+Prueba 12 Masc., 200m Estilos 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2RODRIGUEZ BROX, Eduardo 05 C.N. San Blas NT ___:___.___
+3EFIMOV, Nikita Albert 03 C.N. Mirasierra NT ___:___.___
+4SOLANA OLIVARES, Oliver 10 C.N. San Fernando De Henares NT ___:___.___
+Serie 2 de 3
+1BLAZQUEZ BAUTISTA, Jesus 05 A.D. Rivas Natación 2:23.56 ___:___.___
+2ABAD LOPEZ, Adrian 04 C.N. San Blas 2:18.68 ___:___.___
+3ALMARZA PUIG, Hector 03 A.D. Rivas Natación 2:13.51 ___:___.___
+4RUBIO DE PABLOS, Adrian 06 Safa Madrid 2:13.89 ___:___.___
+5ZARZALEJOS SANTOS, Mario 11 C.N. Coslada 2:22.07 ___:___.___
+6LOPEZ PRESNO, Iker 11 C.N. Coslada 2:43.08 ___:___.___
+Serie 3 de 3
+1GARCIA GONZALEZ, Carlos 02 Safa Madrid 2:11.10 ___:___.___
+2VICIOSO BUIGUES, Jaime 07 C.D. Sek 2:10.12 ___:___.___
+3MARTIN LARA, Dario 04 C.N. Mirasierra 2:05.40 ___:___.___
+4PEÑA RODRIGUEZ, Jaime 02 C.N. San Fernando De Henares 2:09.24 ___:___.___
+5PARADA BLAZQUEZ, Daniel 08 C.N. Colegio Mirasur 2:10.78 ___:___.___
+6RODRIGUEZ RAMIREZ, Javier 08 C.N. Colegio Mirasur 2:13.11 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 9
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 13 Fem., 200m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2GARCIA HERNANDEZ, Ines 08 C. Alameda De Osuna NT ___:___.___
+3CANTADOR RODRIGUEZ, Silvia 11 C.N. Jimenez 2:39.78 ___:___.___
+4DIAZ-AMBRONA HERNANDEZ, Lissette 11 C.N. Jimenez 2:51.04 ___:___.___
+Serie 2 de 3
+1GIMENEZ CATALA, Gema 09 C.N. San Blas 2:30.79 ___:___.___
+2GARCIA GARCIA-DUARTE, Laura 10 C. Alameda De Osuna 2:25.56 ___:___.___
+3MIRANDA GARCIA, Alicia 09 C.M.N. Arganda 2:19.95 ___:___.___
+4KROGULEC KORYCKA, Laura 08 C.N. Ciudad De Alcorcon 2:21.11 ___:___.___
+5CANO BECERRA, Noa 09 C.M.N. Arganda 2:30.37 ___:___.___
+6MARTIN ALONSO-BARAJAS, Isabel 09 C.N. Vallmont 2:35.13 ___:___.___
+Serie 3 de 3
+1ALVAREZ PARRA, Lucia 09 A.D.N. Mostoles 2:14.28 ___:___.___
+2BELCIUG BELCIUG, Bianca Claudia 09 C.N. Leganes 2:12.79 ___:___.___
+3MENDOZA GOMEZ, Sara 07 C.N. San Blas 2:03.90 ___:___.___
+4TOMAS PRIETO, Rocio 06 A.D.N. Mostoles 2:11.70 ___:___.___
+5MUÑOZ MARCHANTE, Carla 08 C.N. Leganes 2:13.54 ___:___.___
+6BENITO BARCA, Lucia 99 C.N. Ciudad De Alcorcon 2:15.54 ___:___.___
+Prueba 14 Masc., 200m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2CANTERO ELVIRA, Jose Ramon 93 A.D. Rivas Natación 2:15.30 ___:___.___
+3DIGON LLORENTE, Santiago 09 C.N. Mirasierra 2:04.49 ___:___.___
+4OCAÑA MARTIN, Pedro 09 Safa Madrid 2:04.84 ___:___.___
+5SOLANO CASTAÑEDA, Martin 09 C.N. San Fernando De Henares 2:17.78 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 10
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 14, Masc., 200m Libre
+Serie 2 de 3
+1MARTIN MARTIN, Leo 11 C.N. Coslada 2:02.76 ___:___.___
+2MUÑOZ LUCIO, Bruno 08 C.N. Colegio Mirasur 1:56.98 ___:___.___
+3SALGUERO OTEIZA, Ivan 98 A.D. Rivas Natación 1:56.90 ___:___.___
+4PRIETO HERNANDEZ, Ismael 10 C.N. Colegio Mirasur 1:56.96 ___:___.___
+5ALDERETE GARCIA, Rodrigo 06 Safa Madrid 2:01.04 ___:___.___
+6KOLEW, Daniel Iwailow 07 C.N. San Fernando De Henares 2:03.87 ___:___.___
+Serie 3 de 3
+1GUEVARA RODRIGUEZ, Ignacio 07 C.N. Mirasierra 1:55.89 ___:___.___
+2TORCZYNSKI, Bruno 07 C.D. Sek 1:54.70 ___:___.___
+3FENTE DAMERS, Rafael 06 C.D. Sek 1:45.47 ___:___.___
+4ALVAREZ ALMAZAN, Jonay 08 C.N. Coslada 1:54.31 ___:___.___
+5MENDOZA GOMEZ, Andres 09 C.N. San Blas 1:54.99 ___:___.___
+6HIGUERAS BARRANTES, Jaime 01 C.N. San Blas 1:56.29 ___:___.___
+Prueba 15 Fem., 200m  Braza 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2PRAVIA DE LA GUERRA, Arantzazu 07 C.N. Vallmont NT ___:___.___
+3LI, Ziran 11 C. Alameda De Osuna 3:16.03 ___:___.___
+4MARTINEZ DOVALE, Candela 11 C.N. Jimenez 3:19.71 ___:___.___
+Serie 2 de 3
+1VEGA LECH, Adriana 10 C.M.N. Arganda 3:02.25 ___:___.___
+2VILLALBA DA COSTA, Adriana 09 C.M.N. Arganda 2:59.30 ___:___.___
+3GUERRERO RODRIGUEZ, Celia 07 C.N. San Blas 2:58.06 ___:___.___
+4HERNANDEZ BAZAN, Carla 08 C. Alameda De Osuna 2:58.40 ___:___.___
+5ALCAZAR MARTIN, Iris 11 C.N. Ciudad De Alcorcon 3:00.26 ___:___.___
+6JARA QUIROGA, Miah 11 C.N. Jimenez 3:12.00 ___:___.___
+Serie 3 de 3
+1MAYORDOMO DELGADO, M. 07 A.D.N. Mostoles 2:52.65 ___:___.___
+2MORENO LIRA, Sofia 09 C.N. Leganes 2:43.98 ___:___.___
+3ALONSO BLANCO, Eva 10 C.N. San Blas 2:41.80 ___:___.___
+4YUGUERO LABAJOS, Claudia 06 A.D.N. Mostoles 2:42.54 ___:___.___
+5CAMPOS GIAO, Candela 09 C.N. Leganes 2:47.88 ___:___.___
+6MARTIN CUBAS, Arian 10 C.N. Ciudad De Alcorcon 2:55.33 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 11
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 16 Masc., 200m  Braza 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2SANCHEZ LOPEZ, Antonio 10 C.N. San Blas 2:58.17 ___:___.___
+3VALLE RAMIREZ, Angel 07 C.N. San Fernando De Henares 2:44.95 ___:___.___
+4RAMIREZ LORENZO, Diego 07 C.N. San Blas 2:46.49 ___:___.___
+5SAINZ GARRIZ, Mikel 08 C.D. Sek NT ___:___.___
+Serie 2 de 3
+1BLAZQUEZ BAUTISTA, Jesus 05 A.D. Rivas Natación 2:37.40 ___:___.___
+2MENDEZ MENDEZ, Jose Andres 09 C.N. Mirasierra 2:29.59 ___:___.___
+3MONTALVO GALVEZ, Javier 05 C.N. Colegio Mirasur 2:27.70 ___:___.___
+4PON SERRANO, Pablo 05 A.D. Rivas Natación 2:27.77 ___:___.___
+5MARTIN CARVAJAL, Carlos 07 C.N. Coslada 2:32.36 ___:___.___
+6ZARZALEJOS SANTOS, Mario 11 C.N. Coslada 2:37.70 ___:___.___
+Serie 3 de 3
+1PARADA BLAZQUEZ, Daniel 08 C.N. Colegio Mirasur 2:23.32 ___:___.___
+2VICIOSO BUIGUES, Jaime 07 C.D. Sek 2:19.29 ___:___.___
+3PEÑA RODRIGUEZ, Jaime 02 C.N. San Fernando De Henares 2:15.95 ___:___.___
+4SANTAMARIA IZQUIERDO, Alejandro 03 C.N. Mirasierra 2:17.50 ___:___.___
+5MARTIN DE LA IGLESIA, David 99 Safa Madrid 2:21.20 ___:___.___
+6GUTIERREZ MADERUELO, Javier 00 Safa Madrid 2:24.01 ___:___.___
+Prueba 17 Fem., 4 x 50m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Año Club Marca 25m - E _____________
+Serie 1 de 2
+2C.N. Vallmont 14 C.N. Vallmont NT ___:___.___
+3C. Alameda De Osuna 14 C. Alameda De Osuna 2:00.07 ___:___.___
+4A.D.N. Mostoles 14 A.D.N. Mostoles NT ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 12
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 17, Fem., 4 x 50m Libre
+Serie 2 de 2
+1C.N. San Blas 14 C.N. San Blas 1:54.77 ___:___.___
+2C.N. Jimenez 14 C.N. Jimenez 1:53.34 ___:___.___
+3C.N. Ciudad De Alcorcon 14 C.N. Ciudad De Alcorcon 1:51.96 ___:___.___
+4C.N. Leganes 14 C.N. Leganes 1:52.72 ___:___.___
+5C.M.N. Arganda 14 C.M.N. Arganda 1:54.15 ___:___.___
+Prueba 18 Masc., 4 x 50m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Año Club Marca 25m - E _____________
+Serie 1 de 2
+2C.N. Mirasierra 14 C.N. Mirasierra NT ___:___.___
+3C.N. Coslada 14 C.N. Coslada 1:43.73 ___:___.___
+4C.D. Sek 14 C.D. Sek NT ___:___.___
+Serie 2 de 2
+1A.D. Rivas Natación 14 A.D. Rivas Natación 1:42.24 ___:___.___
+2C.N. San Fernando De Henares 14 C.N. San Fernando De Henares 1:39.56 ___:___.___
+3Safa Madrid 14 Safa Madrid 1:38.43 ___:___.___
+4C.N. San Blas 14 C.N. San Blas 1:38.74 ___:___.___
+5C.N. Colegio Mirasur 14 C.N. Colegio Mirasur 1:40.24 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 13
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 18, Masc., 4 x 50m LibrePiscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 1
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 19 Masc., 50m Mariposa 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2GARCIA BETETA, Jorge 01 C.N. Coslada 29.01 ___:___.___
+3ABAD LOPEZ, Adrian 04 C.N. San Blas 27.21 ___:___.___
+4MARTINEZ CALLEJA, Mario 06 A.D. Rivas Natación 27.37 ___:___.___
+5RIVERA MARTIN, Sergio 02 C.N. Coslada NT ___:___.___
+Serie 2 de 3
+1PARRA BARRERA, Andres 00 C.N. San Blas 26.94 ___:___.___
+2GARCIA GONZALEZ, Angel 04 C.N. Colegio Mirasur 26.62 ___:___.___
+3TOBAL CAÑABATE, Carlos 02 A.D. Rivas Natación 26.13 ___:___.___
+4MORENO GARCIA, Andres 04 C.N. Colegio Mirasur 26.41 ___:___.___
+5GALLU GALLEGO, Miguel 04 C.N. San Fernando De Henares 26.83 ___:___.___
+6POLO GOMEZ, Sergio 06 C.N. San Fernando De Henares 27.18 ___:___.___
+Serie 3 de 3
+1AGUERO MONTERO, Javier 04 C.N. Mirasierra 25.41 ___:___.___
+2FERNANDEZ BLAZQUEZ, Pablo 05 Safa Madrid 24.77 ___:___.___
+3LOZANO MATEOS, Alberto 98 C.D. Sek 23.20 ___:___.___
+4RODRIGUEZ ROSALES, Julio Cesar 05 C.D. Sek 24.11 ___:___.___
+5MARTIN LARA, Dario 04 C.N. Mirasierra 25.40 ___:___.___
+6GARCIA GONZALEZ, Carlos 02 Safa Madrid 26.03 ___:___.___
+Prueba 20 Fem., 50m Mariposa 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2MARTIN ALONSO-BARAJAS, Isabel 09 C.N. Vallmont 34.59 ___:___.___
+3CABORNERO JIMENEZ, Marta 04 C.N. Jimenez 33.79 ___:___.___
+4COCUCCI, Arianne 09 C. Alameda De Osuna 34.27 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 2
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 20, Fem., 50m Mariposa
+Serie 2 de 3
+1VEGA LECH, Adriana 10 C.M.N. Arganda 32.25 ___:___.___
+2SANCHEZ-PATON GOMEZ, Maria 08 C. Alameda De Osuna 31.37 ___:___.___
+3CONTRERAS CASTILLO, Sandra 04 C.N. San Blas 30.75 ___:___.___
+4HAUET, Ines 04 C.N. Ciudad De Alcorcon 31.17 ___:___.___
+5FERNANDEZ URBANOS, Paula 08 C.N. Leganes 31.66 ___:___.___
+6CANO BECERRA, Leyre 11 C.M.N. Arganda 33.31 ___:___.___
+Serie 3 de 3
+1GONZALEZ GIL, Gemma 04 C.N. Jimenez 30.22 ___:___.___
+2GARRIDO PEDROSA, Natalia 09 A.D.N. Mostoles 29.20 ___:___.___
+3FLORES ALVAREZ, Lucia 05 C.N. Ciudad De Alcorcon 28.84 ___:___.___
+4CARRION LAMPARERO, Claudia 03 A.D.N. Mostoles 29.00 ___:___.___
+5GARCIA MONTEAGUDO, Alba 07 C.N. Leganes 29.97 ___:___.___
+6ALONSO BLANCO, Eva 10 C.N. San Blas 30.39 ___:___.___
+Prueba 21 Masc., 400m Estilos 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 2
+2MUÑOZ CABALLERO, Saul 09 C.N. San Blas NT ___:___.___
+3VALLE RAMIREZ, Angel 07 C.N. San Fernando De Henares 5:04.65 ___:___.___
+4SAINZ GARRIZ, Mikel 08 C.D. Sek NT ___:___.___
+Serie 2 de 2
+1RODRIGUEZ GAMEZ, Yago 10 A.D. Rivas Natación 4:59.39 ___:___.___
+2RUBIO DE PABLOS, Adrian 06 Safa Madrid 4:58.25 ___:___.___
+3PARADA BLAZQUEZ, Daniel 08 C.N. Colegio Mirasur 4:42.93 ___:___.___
+4SANTAMARIA IZQUIERDO, Alejandro 03 C.N. Mirasierra 4:48.30 ___:___.___
+5ZARZALEJOS SANTOS, Mario 11 C.N. Coslada 4:58.91 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 3
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 22 Fem., 400m Estilos 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 2
+2SANABRIAS GIJON, Aroa 07 C.N. San Blas NT ___:___.___
+3CALLEJA ROMERALO, Maria Luxuan 10 C.N. Jimenez 6:20.95 ___:___.___
+4LOPEZ GARCIA, Silvia 08 C.N. Vallmont NT ___:___.___
+Serie 2 de 2
+1MARTIN TERESO RODRIGUEZ, Amanda 09 C. Alameda De Osuna 6:10.20 ___:___.___
+2ASENSIO SAMPE, Alejandra 05 C.N. Ciudad De Alcorcon 5:36.14 ___:___.___
+3YUGUERO LABAJOS, Claudia 06 A.D.N. Mostoles 5:18.61 ___:___.___
+4PEREZ RODRIGUEZ, Irene 08 C.N. Leganes 5:23.09 ___:___.___
+5CASTRO HIDALGO, Jimena 05 C.M.N. Arganda 5:36.66 ___:___.___
+Prueba 23 Masc., 50m  Espalda 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2NUÑEZ CHIC, Luis 04 C.N. San Fernando De Henares 32.52 ___:___.___
+3PARRA BARRERA, Andres 00 C.N. San Blas 28.95 ___:___.___
+4ILLANA RIBAGORDA, Alejandro 96 C.N. Mirasierra 30.48 ___:___.___
+5NEAGU, Mario Andrei 07 C.N. San Fernando De Henares 33.75 ___:___.___
+Serie 2 de 3
+1RODRIGUEZ GAMEZ, Yago 10 A.D. Rivas Natación 27.88 ___:___.___
+2IVASZUK IVASZUK, Raoul Vlad 04 C.N. Colegio Mirasur 27.70 ___:___.___
+3TANTEAN, Luis-Mihail 06 C.D. Sek 27.62 ___:___.___
+4MERELLO CARRIZO, Sergio 08 C.N. Colegio Mirasur 27.64 ___:___.___
+5JUGANARU, Robert Andrei 01 C.N. Coslada 27.76 ___:___.___
+6RODRIGUEZ CRESPO, Alejandro 09 Safa Madrid 28.17 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 4
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 23, Masc., 50m  Espalda
+Serie 3 de 3
+1TOBAL CAÑABATE, Carlos 02 A.D. Rivas Natación 27.46 ___:___.___
+2NOGALES CUENCA, Hector 01 C.N. Coslada 26.54 ___:___.___
+3FENTE DAMERS, Victor 09 C.D. Sek 26.33 ___:___.___
+4PARRA BARRERA, Miguel 04 C.N. San Blas 26.44 ___:___.___
+5FERNANDEZ BLAZQUEZ, Victor 03 Safa Madrid 26.63 ___:___.___
+6CARRASCO RIVERA, Enrique 98 C.N. Mirasierra 27.47 ___:___.___
+Prueba 24 Fem., 50m  Espalda 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2GOMEZ MERA, Isabel 11 C. Alameda De Osuna 36.04 ___:___.___
+3GARCIA LOPEZ, Lea 06 C.N. Vallmont 35.13 ___:___.___
+4CONTRERAS AYALA, Beatriz 10 C.N. Jimenez 35.37 ___:___.___
+5SANCHEZ ROMERO, Abril 09 C.N. San Blas 37.88 ___:___.___
+Serie 2 de 3
+1FERRY MUÑOZ, Lara 10 C.N. Ciudad De Alcorcon 33.35 ___:___.___
+2CID CAMACHO, Cristina 10 A.D.N. Mostoles 32.10 ___:___.___
+3POP MARTIN, Alexia 09 C.M.N. Arganda 31.71 ___:___.___
+4MUÑOZ MARCHANTE, Carla 08 C.N. Leganes 32.06 ___:___.___
+5LUMBIER SANCHEZ, Maria 08 C.N. Vallmont 32.49 ___:___.___
+6GUERRERO RODRIGUEZ, Celia 07 C.N. San Blas 34.44 ___:___.___
+Serie 3 de 3
+1CASTRO HIDALGO, Jimena 05 C.M.N. Arganda 31.40 ___:___.___
+2BOLAÑOS MARTINEZ, Sara 07 C.N. Leganes 30.45 ___:___.___
+3POZO PADILLA, Paula 07 A.D.N. Mostoles 29.56 ___:___.___
+4CABORNERO JIMENEZ, Marta 04 C.N. Jimenez 29.91 ___:___.___
+5MURIEL LOPEZ, Sofia 06 C. Alameda De Osuna 31.15 ___:___.___
+6CHANCLON SUERO, Irene 06 C.N. Ciudad De Alcorcon 31.70 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 5
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 25 Masc., 100m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2GARCIA NAVAS, Pablo 08 Safa Madrid 54.92 ___:___.___
+3ALMARZA PUIG, Hector 03 A.D. Rivas Natación 54.09 ___:___.___
+4KOLEW, Daniel Iwailow 07 C.N. San Fernando De Henares 54.45 ___:___.___
+5RODRIGUEZ TEJERO, Manuel 11 C.N. Coslada 57.64 ___:___.___
+Serie 2 de 3
+1FERNANDEZ ROBLES, Miguel 08 C.N. Colegio Mirasur 53.36 ___:___.___
+2GALLU GALLEGO, Miguel 04 C.N. San Fernando De Henares 53.06 ___:___.___
+3RODRIGUEZ BROX, Eduardo 05 C.N. San Blas 52.73 ___:___.___
+4SALGUERO OTEIZA, Ivan 98 A.D. Rivas Natación 53.04 ___:___.___
+5GUEVARA RODRIGUEZ, Ignacio 07 C.N. Mirasierra 53.19 ___:___.___
+6ALVAREZ ALMAZAN, Jonay 08 C.N. Coslada 54.02 ___:___.___
+Serie 3 de 3
+1MUÑOZ LUCIO, Bruno 08 C.N. Colegio Mirasur 51.75 ___:___.___
+2FERNANDEZ BLAZQUEZ, Pablo 05 Safa Madrid 51.16 ___:___.___
+3FENTE DAMERS, Rafael 06 C.D. Sek 46.82 ___:___.___
+4RODRIGUEZ ROSALES, Julio Cesar 05 C.D. Sek 50.14 ___:___.___
+5MENDOZA GOMEZ, Andres 09 C.N. San Blas 51.28 ___:___.___
+6AGUERO MONTERO, Javier 04 C.N. Mirasierra 52.05 ___:___.___
+Prueba 26 Fem., 100m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2MARTIN ALONSO-BARAJAS, Isabel 09 C.N. Vallmont 1:08.37 ___:___.___
+3BLANCO PEÑAS, Vega 11 C.N. Jimenez 1:04.62 ___:___.___
+4GARCIA HERNANDEZ, Ines 08 C. Alameda De Osuna 1:06.81 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 6
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 26, Fem., 100m Libre
+Serie 2 de 3
+1CONTRERAS CASTILLO, Sandra 04 C.N. San Blas 1:03.59 ___:___.___
+2BENITO BARCA, Lucia 99 C.N. Ciudad De Alcorcon 1:01.81 ___:___.___
+3GONZALEZ GIL, Gemma 04 C.N. Jimenez 1:01.29 ___:___.___
+4KROGULEC KORYCKA, Laura 08 C.N. Ciudad De Alcorcon 1:01.73 ___:___.___
+5SANCHEZ-PATON GOMEZ, Maria 08 C. Alameda De Osuna 1:02.67 ___:___.___
+6MIRANDA GARCIA, Alicia 09 C.M.N. Arganda 1:03.64 ___:___.___
+Serie 3 de 3
+1GARCIA MONTEAGUDO, Alba 07 C.N. Leganes 59.64 ___:___.___
+2MAYORDOMO DELGADO, M. 07 A.D.N. Mostoles 58.83 ___:___.___
+3MENDOZA GOMEZ, Sara 07 C.N. San Blas 55.88 ___:___.___
+4CARRION LAMPARERO, Claudia 03 A.D.N. Mostoles 58.69 ___:___.___
+5BELCIUG BELCIUG, Bianca Claudia 09 C.N. Leganes 59.59 ___:___.___
+6MARTIN HERNANDEZ, Angela 08 C.M.N. Arganda 1:00.40 ___:___.___
+Prueba 27 Masc., 100m  Braza 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2SANCHEZ LOPEZ, Antonio 10 C.N. San Blas 1:20.79 ___:___.___
+3NEAGU, Mario Andrei 07 C.N. San Fernando De Henares 1:14.04 ___:___.___
+4RAMIREZ LORENZO, Diego 07 C.N. San Blas 1:15.24 ___:___.___
+5TORCZYNSKI, Bruno 07 C.D. Sek NT ___:___.___
+Serie 2 de 3
+1BLAZQUEZ BAUTISTA, Jesus 05 A.D. Rivas Natación 1:08.84 ___:___.___
+2BAREA DE ORBE, Fernando 81 C.N. Mirasierra 1:07.02 ___:___.___
+3MONTALVO GALVEZ, Javier 05 C.N. Colegio Mirasur 1:05.28 ___:___.___
+4PARADA BLAZQUEZ, Daniel 08 C.N. Colegio Mirasur 1:05.44 ___:___.___
+5MARTIN CARVAJAL, Carlos 07 C.N. Coslada 1:08.41 ___:___.___
+6NOGALES CUENCA, Hector 01 C.N. Coslada 1:09.18 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 7
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 27, Masc., 100m  Braza
+Serie 3 de 3
+1MARTIN DE LA IGLESIA, David 99 Safa Madrid 1:04.37 ___:___.___
+2VICIOSO BUIGUES, Jaime 07 C.D. Sek 1:04.04 ___:___.___
+3PEÑA RODRIGUEZ, Jaime 02 C.N. San Fernando De Henares 1:01.32 ___:___.___
+4PON SERRANO, Pablo 05 A.D. Rivas Natación 1:03.87 ___:___.___
+5SANTAMARIA IZQUIERDO, Alejandro 03 C.N. Mirasierra 1:04.06 ___:___.___
+6GUTIERREZ MADERUELO, Javier 00 Safa Madrid 1:04.68 ___:___.___
+Prueba 28 Fem., 100m  Braza 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2PRAVIA DE LA GUERRA, Arantzazu 07 C.N. Vallmont 1:29.53 ___:___.___
+3COCUCCI, Arianne 09 C. Alameda De Osuna 1:27.35 ___:___.___
+4JARA QUIROGA, Miah 11 C.N. Jimenez 1:27.62 ___:___.___
+Serie 2 de 3
+1VEGA LECH, Adriana 10 C.M.N. Arganda 1:22.53 ___:___.___
+2GUERRERO RODRIGUEZ, Celia 07 C.N. San Blas 1:21.50 ___:___.___
+3ASENSIO SAMPE, Alejandra 05 C.N. Ciudad De Alcorcon 1:16.88 ___:___.___
+4HERNANDEZ BAZAN, Carla 08 C. Alameda De Osuna 1:18.36 ___:___.___
+5VILLALBA DA COSTA, Adriana 09 C.M.N. Arganda 1:22.19 ___:___.___
+6CALLEJA ROMERALO, Maria Luxuan 10 C.N. Jimenez 1:24.97 ___:___.___
+Serie 3 de 3
+1MORENO LIRA, Sofia 09 C.N. Leganes 1:16.31 ___:___.___
+2FERNANDEZ DIAZ, Irene 09 A.D.N. Mostoles 1:15.52 ___:___.___
+3YUGUERO LABAJOS, Claudia 06 A.D.N. Mostoles 1:12.33 ___:___.___
+4ALONSO BLANCO, Eva 10 C.N. San Blas 1:12.39 ___:___.___
+5CAMPOS GIAO, Candela 09 C.N. Leganes 1:15.67 ___:___.___
+6MARTIN CUBAS, Arian 10 C.N. Ciudad De Alcorcon 1:16.34 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 8
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 29 Masc., 200m Mariposa 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2LOPEZ PRESNO, Iker 11 C.N. Coslada 2:39.26 ___:___.___
+3POLO GOMEZ, Sergio 06 C.N. San Fernando De Henares 2:29.27 ___:___.___
+4DE LA TORRE VARGAS, Daniel 09 C.N. San Fernando De Henares 2:34.66 ___:___.___
+5EFIMOV, Nikita Albert 03 C.N. Mirasierra NT ___:___.___
+Serie 2 de 3
+1CANDEL OSORIO, Javier 08 C.D. Sek 2:25.99 ___:___.___
+2MORENO GARCIA, Luis 05 C.N. Colegio Mirasur 2:19.22 ___:___.___
+3ALMARZA PUIG, Hector 03 A.D. Rivas Natación 2:15.88 ___:___.___
+4MARTINEZ CALLEJA, Mario 06 A.D. Rivas Natación 2:18.45 ___:___.___
+5PARRA BARRERA, Andres 00 C.N. San Blas 2:24.79 ___:___.___
+6CAMACHO MOYA, Ivan 04 C.N. Coslada 2:26.89 ___:___.___
+Serie 3 de 3
+1GARCIA MARTOS, David 00 Safa Madrid 2:14.95 ___:___.___
+2MORENO GARCIA, Andres 04 C.N. Colegio Mirasur 2:05.86 ___:___.___
+3MARTIN LARA, Dario 04 C.N. Mirasierra 1:59.65 ___:___.___
+4LOZANO MATEOS, Alberto 98 C.D. Sek 2:02.74 ___:___.___
+5ABAD LOPEZ, Adrian 04 C.N. San Blas 2:14.04 ___:___.___
+6GARCIA GONZALEZ, Carlos 02 Safa Madrid 2:14.97 ___:___.___
+Prueba 30 Fem., 200m Mariposa 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2BLOM SAURA, Elena 11 C. Alameda De Osuna NT ___:___.___
+3GARCIA GARCIA-DUARTE, Laura 10 C. Alameda De Osuna NT ___:___.___
+4MAQUEDA PLAZA, Natalia 11 C.N. Vallmont NT ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 9
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 30, Fem., 200m Mariposa
+Serie 2 de 3
+1OLIVER PRAT, Olivia 09 C.N. Jimenez 3:27.87 ___:___.___
+2SANABRIAS GIJON, Aroa 07 C.N. San Blas 3:23.16 ___:___.___
+3PEREZ GUDE, Miriam 09 C.N. Leganes 2:53.53 ___:___.___
+4CANO BECERRA, Noa 09 C.M.N. Arganda 3:02.69 ___:___.___
+5DIAZ-AMBRONA HERNANDEZ, Lissette 11 C.N. Jimenez 3:26.58 ___:___.___
+6IGLESIAS VELA, Maria 10 C.N. San Blas NT ___:___.___
+Serie 3 de 3
+1GARRIDO PEDROSA, Natalia 09 A.D.N. Mostoles 2:37.64 ___:___.___
+2PEREZ RODRIGUEZ, Irene 08 C.N. Leganes 2:33.89 ___:___.___
+3CARRION LAMPARERO, Claudia 03 A.D.N. Mostoles 2:25.37 ___:___.___
+4VILLANUEVA MARTINEZ, Maria 02 C.M.N. Arganda 2:27.89 ___:___.___
+5FLORES ALVAREZ, Lucia 05 C.N. Ciudad De Alcorcon 2:35.93 ___:___.___
+6DOMENECH SAGRA, Gabriela 06 C.N. Ciudad De Alcorcon 2:45.44 ___:___.___
+Prueba 31 Masc., 200m  Espalda 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2LETON ALONSO-VILLALOBOS, Pablo 10 C.N. San Fernando De Henares 2:31.98 ___:___.___
+3RIVERA BUITRAGO, Alejandro 11 A.D. Rivas Natación 2:21.64 ___:___.___
+4VALLE RAMIREZ, Angel 07 C.N. San Fernando De Henares 2:23.22 ___:___.___
+5CORNICK GONZALEZ GORBEÑA, Dylan 08 C.D. Sek NT ___:___.___
+Serie 2 de 3
+1RODRIGUEZ GAMEZ, Yago 10 A.D. Rivas Natación 2:15.22 ___:___.___
+2MARTIN MARTIN, Leo 11 C.N. Coslada 2:14.56 ___:___.___
+3JUGANARU, Robert Andrei 01 C.N. Coslada 2:13.39 ___:___.___
+4ILLANA RIBAGORDA, Alejandro 96 C.N. Mirasierra 2:13.63 ___:___.___
+5MARQUES VERNICH, Xavier 10 C.N. Colegio Mirasur 2:14.70 ___:___.___
+6GARCIA NAVAS, Pablo 08 Safa Madrid 2:16.43 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 10
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 31, Masc., 200m  Espalda
+Serie 3 de 3
+1MERELLO CARRIZO, Sergio 08 C.N. Colegio Mirasur 2:11.48 ___:___.___
+2PARRA BARRERA, Miguel 04 C.N. San Blas 2:08.32 ___:___.___
+3FENTE DAMERS, Victor 09 C.D. Sek 2:06.10 ___:___.___
+4MENDOZA GOMEZ, Andres 09 C.N. San Blas 2:07.19 ___:___.___
+5CARRASCO RIVERA, Enrique 98 C.N. Mirasierra 2:10.55 ___:___.___
+6FERNANDEZ BLAZQUEZ, Victor 03 Safa Madrid 2:12.86 ___:___.___
+Prueba 32 Fem., 200m  Espalda 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2POVEDANO MARTIN, Clara 10 C.N. San Blas 3:04.43 ___:___.___
+3HERRERA CAMPILLO, Ainara 11 C. Alameda De Osuna 2:53.23 ___:___.___
+4CONTRERAS AYALA, Beatriz 10 C.N. Jimenez 2:56.43 ___:___.___
+Serie 2 de 3
+1BLANCO PEÑAS, Vega 11 C.N. Jimenez 2:49.55 ___:___.___
+2POP MARTIN, Alexia 09 C.M.N. Arganda 2:38.77 ___:___.___
+3CID CAMACHO, Cristina 10 A.D.N. Mostoles 2:31.30 ___:___.___
+4MOLINA RAPOSO, Carla 09 C.N. Leganes 2:32.63 ___:___.___
+5FERRY MUÑOZ, Lara 10 C.N. Ciudad De Alcorcon 2:40.86 ___:___.___
+6SANCHEZ ROMERO, Abril 09 C.N. San Blas 2:51.40 ___:___.___
+Serie 3 de 3
+1MURIEL LOPEZ, Sofia 06 C. Alameda De Osuna 2:30.89 ___:___.___
+2CHANCLON SUERO, Irene 06 C.N. Ciudad De Alcorcon 2:29.38 ___:___.___
+3POZO PADILLA, Paula 07 A.D.N. Mostoles 2:16.05 ___:___.___
+4BOLAÑOS MARTINEZ, Sara 07 C.N. Leganes 2:25.82 ___:___.___
+5MARTIN HERNANDEZ, Angela 08 C.M.N. Arganda 2:29.99 ___:___.___
+6LOPEZ GARCIA, Silvia 08 C.N. Vallmont 2:31.14 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 11
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 33 Masc., 400m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2JALDON SANCHEZ, Alfonso 09 A.D. Rivas Natación 4:42.57 ___:___.___
+3ZARZALEJOS SANTOS, Mario 11 C.N. Coslada 4:33.92 ___:___.___
+4FERNANDEZ ROBLES, Miguel 08 C.N. Colegio Mirasur 4:36.54 ___:___.___
+5SOLANO CASTAÑEDA, Martin 09 C.N. San Fernando De Henares NT ___:___.___
+Serie 2 de 3
+1DIGON LLORENTE, Santiago 09 C.N. Mirasierra 4:30.00 ___:___.___
+2RODRIGUEZ BROX, Eduardo 05 C.N. San Blas 4:18.37 ___:___.___
+3ALDERETE GARCIA, Rodrigo 06 Safa Madrid 4:16.75 ___:___.___
+4RIBEIRO INIESTA, Alejandro 08 C.N. Colegio Mirasur 4:18.00 ___:___.___
+5MARTIN DE LA IGLESIA, David 99 Safa Madrid 4:19.11 ___:___.___
+6KOLEW, Daniel Iwailow 07 C.N. San Fernando De Henares 4:31.64 ___:___.___
+Serie 3 de 3
+1SALGUERO OTEIZA, Ivan 98 A.D. Rivas Natación 4:11.32 ___:___.___
+2GUEVARA RODRIGUEZ, Ignacio 07 C.N. Mirasierra 4:06.71 ___:___.___
+3FENTE DAMERS, Rafael 06 C.D. Sek 3:50.76 ___:___.___
+4ALVAREZ ALMAZAN, Jonay 08 C.N. Coslada 4:04.89 ___:___.___
+5TANTEAN, Luis-Mihail 06 C.D. Sek 4:07.88 ___:___.___
+6HIGUERAS BARRANTES, Jaime 01 C.N. San Blas 4:12.13 ___:___.___
+Prueba 34 Fem., 400m Libre 14 años y mayores
+26/04/2025 Lista de salida
+Nombre Año Club Marca 25m - E _____________
+Serie 1 de 3
+2MARTIN TORRES, Sofia 09 C.N. San Blas 6:04.37 ___:___.___
+3GOMEZ MERA, Isabel 11 C. Alameda De Osuna 5:56.32 ___:___.___
+4DIAZ-AMBRONA HERNANDEZ, Lissette 11 C.N. Jimenez 5:58.08 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 12
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 34, Fem., 400m Libre
+Serie 2 de 3
+1CANTADOR RODRIGUEZ, Silvia 11 C.N. Jimenez 5:26.85 ___:___.___
+2GARCIA GARCIA-DUARTE, Laura 10 C. Alameda De Osuna 5:11.48 ___:___.___
+3GARCIA LOPEZ, Lea 06 C.N. Vallmont 4:58.14 ___:___.___
+4MIRANDA GARCIA, Alicia 09 C.M.N. Arganda 5:04.01 ___:___.___
+5GIMENEZ CATALA, Gema 09 C.N. San Blas 5:18.20 ___:___.___
+6MARTIN CUBAS, Arian 10 C.N. Ciudad De Alcorcon 5:47.30 ___:___.___
+Serie 3 de 3
+1PEÑA GALAN, Aitana 09 C.N. Leganes 4:52.35 ___:___.___
+2ALVAREZ PARRA, Lucia 09 A.D.N. Mostoles 4:42.73 ___:___.___
+3TOMAS PRIETO, Rocio 06 A.D.N. Mostoles 4:37.65 ___:___.___
+4VILLANUEVA MARTINEZ, Maria 02 C.M.N. Arganda 4:37.72 ___:___.___
+5BENITO BARCA, Lucia 99 C.N. Ciudad De Alcorcon 4:51.77 ___:___.___
+6MORENO LIRA, Sofia 09 C.N. Leganes 4:52.86 ___:___.___
+Prueba 35 Masc., 4 x 50m Estilos 14 años y mayores
+26/04/2025 Lista de salida
+Año Club Marca 25m - E _____________
+Serie 1 de 2
+2C.D. Sek 14 C.D. Sek NT ___:___.___
+3C.N. Coslada 14 C.N. Coslada 1:53.16 ___:___.___
+4C.N. Mirasierra 14 C.N. Mirasierra NT ___:___.___
+Serie 2 de 2
+1C.N. San Blas 14 C.N. San Blas 1:53.10 ___:___.___
+2A.D. Rivas Natación 14 A.D. Rivas Natación 1:50.24 ___:___.___
+3Safa Madrid 14 Safa Madrid 1:48.21 ___:___.___
+4C.N. San Fernando De Henares 14 C.N. San Fernando De Henares 1:49.75 ___:___.___Piscina 25m - Cronometraje Electrónico
+Splash Meet Manager, 11.81803 Registered to Madrid 14/04/2025 12:04 - Página 13
+LEGANES COPA ABSOLUTA DE CLUBES 24-25_PRIMERA DIVISIÓN
+LEGANES_MADRID, 26/4/2025
+Prueba 35, Masc., 4 x 50m Estilos
+5C.N. Colegio Mirasur 14 C.N. Colegio Mirasur 1:51.45 ___:___.___
+Prueba 36 Fem., 4 x 50m Estilos 14 años y mayores
+26/04/2025 Lista de salida
+Año Club Marca 25m - E _____________
+Serie 1 de 2
+2C.N. Vallmont 14 C.N. Vallmont NT ___:___.___
+3C. Alameda De Osuna 14 C. Alameda De Osuna 2:09.31 ___:___.___
+4A.D.N. Mostoles 14 A.D.N. Mostoles NT ___:___.___
+Serie 2 de 2
+1C.M.N. Arganda 14 C.M.N. Arganda 2:08.47 ___:___.___
+2C.N. Leganes 14 C.N. Leganes 2:04.38 ___:___.___
+3C.N. Ciudad De Alcorcon 14 C.N. Ciudad De Alcorcon 2:04.03 ___:___.___
+4C.N. Jimenez 14 C.N. Jimenez 2:04.09 ___:___.___
+5C.N. San Blas 14 C.N. San Blas 2:06.42 ___:___.___ 
+ 
+   
+COPA MADRID DE CLUBES ABSOLUTA 1ª DIVISIÓN   24-25 
+ 
+PISCINA: “EL CARRASCAL” - LEGANÉS  
+(AVDA. EUROPA nº 6)  
+ 
+Sábado 26 de Abril  2025  
+ 
+HORA DE COMIENZO: AM y PM a confirmar  
+Calentamiento: AM y PM  a confirmar  
+ 
+ 
+Recordamos a todos los clubes, la prohibición de acceder a la playa de la piscina a toda 
+persona que no sean Nadadores, Delegados o Entrenadores de los equipos participantes 
+en la Competición.  
+ 
+Recordamos que también está totalmente prohibido hacer uso de cualquier 
+equipamiento de la instalación que no sea el específicamente relacionado con la 
+competición de Natación.  
+ 
+Las bajas/sustituciones/fichas de relevos, deberán ser entregadas en la secretaría de la 
+competición como máximo 20 minutos antes del comienzo de la competición.  
+ 
+Los nadadores deberán presentarse en la cámara de salidas 5 MINUTOS ANTES DEL 
+INICIO DE SU PRUEBA para realizar la inspección sobre normativa de bañadores y 
+publicidad.  
+ 
+A TODOS LOS DEPORTISTAS – ENTRENADORES - DELEGADOS DE LOS CLUBES  
+ 
+Todos los entrenadores que acompañen a los deportistas, deberán identificarse en la 
+mesa de secretaría de competición, en los 30 minutos anteriores al comienzo de la 
+competición/sesión.  
+ 
+ 
+Se recuerda la OBLIGACIÓN DE PRESENTAR el CARNÉ DE LICENCIA FEDERATIVA 
+TERRITORIAL generado desde Leverade y/o original vigente del DNI/PASAPORTE/TARJETA 
+EXTRANJERÍA/PERMISO RESIDENCIA/VISADO SCHENGEN, cuando sea solicitado en 
+cualquier momento de la competición por algún miembro del jurado de la misma.  
+El carné de la licencia federativa territorial, deberá incluir inexcusablemente una fotografía para 
+su identificación (una fotografía reciente en color del rostro del federado, tomada de frente con 
+la cabeza totalmente descubierta y sin gafas de cristales oscuros o cualquier otra prenda que 
+pueda impedir o dificultar la identificación de la persona).  
+ 
+ 
